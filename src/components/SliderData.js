@@ -1,0 +1,22 @@
+export const SliderDate = [
+  {
+    image:
+      "https://static.wanted.co.kr/images/banners/1489/312a0c29.thumb_1006_280.jpg",
+  },
+  {
+    image:
+      "https://static.wanted.co.kr/images/banners/1468/3df61cbc.thumb_1006_280.jpg",
+  },
+  {
+    image:
+      "https://static.wanted.co.kr/images/banners/1460/619f3af7.thumb_1006_280.jpg",
+  },
+  {
+    image:
+      "https://static.wanted.co.kr/images/banners/1473/41f7b36e.thumb_1006_280.jpg",
+  },
+  {
+    image:
+      "https://static.wanted.co.kr/images/banners/1487/0d36f0b5.thumb_1006_280.jpg",
+  },
+];
